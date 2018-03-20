@@ -1,2 +1,3 @@
-# templatePug
-Repo pour la quête Moteur de template Pug
+# Quête "moteur de template Pug"
+
+Repo github pour la quête Moteur de template Pug
