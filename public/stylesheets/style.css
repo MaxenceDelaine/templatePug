@@ -1,0 +1,27 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#style1 {
+  color:blue;
+  font-family: monospace;
+  font-weight:bold;
+  font-size: 16px;
+}
+
+#style2 {
+  color: DodgerBlue;
+}
+
+#style3 {
+  color: grey;
+}
